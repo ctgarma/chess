@@ -1,7 +1,7 @@
 # chess
 
 ## Basic pawn endings exercise
-https://lichess.org/QSJHk5tY  - white to play and win
+https://lichess.org/QSJHk5tY  - white to play and win  
 https://lichess.org/HdT59TD2  - black to play and draw
 https://lichess.org/HBSwcVoI  - white to play and win
 https://lichess.org/Rr6gZMm2  - black to play and draw
